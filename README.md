@@ -3,6 +3,6 @@
 
 📂 주요 폴더 설명
 👉 서버
-- <span style="background-color:#fff5b1"> Login Server </span>
+- 'Login Server'
 👉 게임 라이브러리
-<pre> ChatServer-Redis_Multi : </pre>
+
