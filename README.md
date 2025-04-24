@@ -7,7 +7,7 @@
 - `Login Server` : 로그인 서버
 - `SingleChatServer` : 싱글 스레드 채팅 서버
 - `MultiChatServer` : 멀티 스레드 채팅 서버
-- `MonitorServer` : 주앙 모니터링 서버
+- `MonitorServer` : 중앙 모니터링 서버
 
 ### 👉 클라이언트
 - `DummyClient` : 로그인, 채팅 서버 더미
