@@ -1,0 +1,28 @@
+//Markinos MIDL File
+
+#Solo = "AuthSolo"
+{
+	
+	CLIENT : ChatReqLogin(WCHAR id[20], WCHAR nick_name[20], char session_key[64])
+	SERVER: ChatResLogin(uint8 status, int64 account_num)
+	
+}
+
+#Solo = "ChatSolo"
+{
+	CLIENT : ChatReqSectorMove(int64 account_num, uint16 sector_x, uint16 sector_y)
+	SERVER : ChatResSectorMove(int64 account_num, uint16 sector_x, uint16 sector_y)
+
+
+	CLIENT : ChatReqMessage(int64 account_num, uint16 message_len, WCHAR message[message_len / 2])
+	SERVER : ChatResMessage(int64 account_num, WCHAR id[20], WCHAR nick_name[20], uint16 message_len, WCHAR message[message_len / 2])
+
+	CLIENT : ChatReqHeartBeat()
+	
+}
+
+#Group = "ChatGroup"
+{
+	CLIENT : ChatReqMove(int64 account_num, uint16 sector_x, uint16 sector_y) ~ 1700
+	SERVER : ChatResMove(int64 account_num, uint16 sector_x, uint16 sector_y)
+}

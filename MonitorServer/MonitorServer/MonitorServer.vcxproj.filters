@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{cca155ad-44b6-405b-b437-1cc7892350f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MonitorObjects">
+      <UniqueIdentifier>{87ebe7a3-b444-4354-b922-3057e34c1e3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MonitorGUI">
+      <UniqueIdentifier>{3630956f-13be-4a90-8d72-47dcfe196b74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monitor">
+      <UniqueIdentifier>{e4745c57-3850-4b14-9a11-7e9685f38667}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ManagerServer">
+      <UniqueIdentifier>{46cd03df-c578-4722-8618-1e7e3363daf7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>ManagerServer</Filter>
+    </ClCompile>
+    <ClCompile Include="00_ManagerServer\MonitorManager.cpp">
+      <Filter>ManagerServer</Filter>
+    </ClCompile>
+    <ClCompile Include="00_ManagerServer\LanMonitor.cpp">
+      <Filter>ManagerServer</Filter>
+    </ClCompile>
+    <ClCompile Include="00_ManagerServer\main.cpp">
+      <Filter>ManagerServer</Filter>
+    </ClCompile>
+    <ClCompile Include="01_MonitorClientServer\NetMonitor.cpp">
+      <Filter>Monitor</Filter>
+    </ClCompile>
+    <ClCompile Include="01_MonitorClientServer\MonitorSolo.cpp">
+      <Filter>Monitor</Filter>
+    </ClCompile>
+    <ClCompile Include="02_MonitorDistributionServer\MonitorGUIServer.cpp">
+      <Filter>MonitorGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="02_MonitorDistributionServer\GUISolo.cpp">
+      <Filter>MonitorGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="03_MonitorObjects\LoginMonitorServer.cpp">
+      <Filter>MonitorObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="03_MonitorObjects\MonitorServer.cpp">
+      <Filter>MonitorObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="03_MonitorObjects\MonitorTool.cpp">
+      <Filter>MonitorObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="03_MonitorObjects\ChatMonitorServer.cpp">
+      <Filter>MonitorObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="03_MonitorObjects\GameMonitorServer.cpp">
+      <Filter>MonitorObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="03_MonitorObjects\HardwareMonitorServer.cpp">
+      <Filter>MonitorObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Utils\SqlUtils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>ManagerServer</Filter>
+    </ClInclude>
+    <ClInclude Include="00_ManagerServer\MonitorManager.h">
+      <Filter>ManagerServer</Filter>
+    </ClInclude>
+    <ClInclude Include="00_ManagerServer\ServerProtocol.h">
+      <Filter>ManagerServer</Filter>
+    </ClInclude>
+    <ClInclude Include="00_ManagerServer\Types.h">
+      <Filter>ManagerServer</Filter>
+    </ClInclude>
+    <ClInclude Include="00_ManagerServer\Values.h">
+      <Filter>ManagerServer</Filter>
+    </ClInclude>
+    <ClInclude Include="00_ManagerServer\LanMonitor.h">
+      <Filter>ManagerServer</Filter>
+    </ClInclude>
+    <ClInclude Include="01_MonitorClientServer\NetMonitor.h">
+      <Filter>Monitor</Filter>
+    </ClInclude>
+    <ClInclude Include="01_MonitorClientServer\MonitorSolo.h">
+      <Filter>Monitor</Filter>
+    </ClInclude>
+    <ClInclude Include="02_MonitorDistributionServer\GUISolo.h">
+      <Filter>MonitorGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="02_MonitorDistributionServer\MonitorGUIServer.h">
+      <Filter>MonitorGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="03_MonitorObjects\LoginMonitorServer.h">
+      <Filter>MonitorObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="03_MonitorObjects\MonitorServer.h">
+      <Filter>MonitorObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="03_MonitorObjects\MonitorTool.h">
+      <Filter>MonitorObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="03_MonitorObjects\ChatMonitorServer.h">
+      <Filter>MonitorObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="03_MonitorObjects\GameMonitorServer.h">
+      <Filter>MonitorObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="03_MonitorObjects\HardwareMonitorServer.h">
+      <Filter>MonitorObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Utils\SqlUtils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="00_ManagerServer\LanMonitor.cnf">
+      <Filter>ManagerServer</Filter>
+    </None>
+    <None Include="01_MonitorClientServer\NetMonitor.cnf">
+      <Filter>Monitor</Filter>
+    </None>
+    <None Include="02_MonitorDistributionServer\MonitorGUI_Server.cnf">
+      <Filter>MonitorGUI</Filter>
+    </None>
+    <None Include="04_Utils\DBServer.cnf">
+      <Filter>Utils</Filter>
+    </None>
+  </ItemGroup>
+</Project>

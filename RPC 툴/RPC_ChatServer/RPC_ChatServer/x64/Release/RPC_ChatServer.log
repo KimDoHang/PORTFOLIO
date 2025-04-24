@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  ChatGroup.cpp
+  ChatGroupJob.cpp
+  MonitorClient.cpp
+  ObjectPool.cpp
+  main.cpp
+  Player.cpp
+  RedisToken.cpp
+  RedisUtils.cpp
+  SingleChat_Server.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 9869 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  RPC_ChatServer.vcxproj -> C:\Users\user\Desktop\PortFolio\RPC 툴\RPC_ChatServer\x64\Release\RPC_ChatServer.exe

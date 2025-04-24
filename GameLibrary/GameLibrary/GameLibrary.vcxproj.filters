@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="01_Main">
+      <UniqueIdentifier>{394f7a6f-bf75-482f-9d67-6a388bff72ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_NetworkUtils">
+      <UniqueIdentifier>{9907461c-eaac-4e61-b833-d2d9aac4cd45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_LanNetwork">
+      <UniqueIdentifier>{8d38f9e0-531d-46d8-8a1c-343a0e27ade6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04_NetNetwork">
+      <UniqueIdentifier>{0610d8e3-fe6c-442b-a439-f884aabd7563}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05_Thread">
+      <UniqueIdentifier>{68cdbb45-6696-4dec-b3b0-648c40cefc98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06_Memory">
+      <UniqueIdentifier>{8079eae2-d978-4b88-832d-d93465ed106e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07_DataStructure">
+      <UniqueIdentifier>{6533e1d6-8c93-421f-ba1a-ed7dbf188fb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08_Utils">
+      <UniqueIdentifier>{14732e99-ad00-40d9-a274-33b4e057e62b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09_Debug">
+      <UniqueIdentifier>{993089d7-428a-415c-b62a-ee93af34d5aa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>01_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="00_Main\LibErrCode.cpp">
+      <Filter>01_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="00_Main\LibGlobal.cpp">
+      <Filter>01_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="00_Main\LibPch.cpp">
+      <Filter>01_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="00_Main\Container.cpp">
+      <Filter>01_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="01_NetworkUtils\SocketUtils.cpp">
+      <Filter>02_NetworkUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="02_LanNetwork\LanService.cpp">
+      <Filter>03_LanNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="02_LanNetwork\LanSession.cpp">
+      <Filter>03_LanNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="02_LanNetwork\LanClient.cpp">
+      <Filter>03_LanNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="02_LanNetwork\LanClientSession.cpp">
+      <Filter>03_LanNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="02_LanNetwork\LanObserver.cpp">
+      <Filter>03_LanNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="02_LanNetwork\LanRecvPacket.cpp">
+      <Filter>03_LanNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="02_LanNetwork\LanSendPacket.cpp">
+      <Filter>03_LanNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="02_LanNetwork\LanSerializeBuffer.cpp">
+      <Filter>03_LanNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="03_NetNetwork\NetSendPacket.cpp">
+      <Filter>04_NetNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="03_NetNetwork\NetSerializeBuffer.cpp">
+      <Filter>04_NetNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="03_NetNetwork\NetService.cpp">
+      <Filter>04_NetNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="03_NetNetwork\NetSession.cpp">
+      <Filter>04_NetNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="03_NetNetwork\NetClient.cpp">
+      <Filter>04_NetNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="03_NetNetwork\NetClientSession.cpp">
+      <Filter>04_NetNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="03_NetNetwork\NetObserver.cpp">
+      <Filter>04_NetNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="03_NetNetwork\NetRecvPacket.cpp">
+      <Filter>04_NetNetwork</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Thread\LogicInstance.cpp">
+      <Filter>05_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Thread\LoopInstance.cpp">
+      <Filter>05_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Thread\SessionInstance.cpp">
+      <Filter>05_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Thread\SoloInstance.cpp">
+      <Filter>05_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Thread\ThreadManager.cpp">
+      <Filter>05_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Thread\FrameTimer.cpp">
+      <Filter>05_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Thread\GroupInstance.cpp">
+      <Filter>05_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Thread\IocpCore.cpp">
+      <Filter>05_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Thread\Job.cpp">
+      <Filter>05_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Thread\Kicker.cpp">
+      <Filter>05_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="05_Memory\LockFreeObjectPoolTLSList.cpp">
+      <Filter>06_Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="05_Memory\SmartPointer.cpp">
+      <Filter>06_Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="05_Memory\LockFreeObjectPool.cpp">
+      <Filter>06_Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="05_Memory\LockFreeObjectPoolTLS.cpp">
+      <Filter>06_Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="06_DataStructure\LockFreeQueueStatic.cpp">
+      <Filter>07_DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="06_DataStructure\LockFreeStack.cpp">
+      <Filter>07_DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="06_DataStructure\LockFreeQueue.cpp">
+      <Filter>07_DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="07_Utils\Profiler.cpp">
+      <Filter>08_Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="07_Utils\TextParser.cpp">
+      <Filter>08_Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="07_Utils\AtomicUtils.cpp">
+      <Filter>08_Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="07_Utils\CpuUsage.cpp">
+      <Filter>08_Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="07_Utils\PerformanceMonitor.cpp">
+      <Filter>08_Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="08_Debug\LogUtils.cpp">
+      <Filter>09_Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="08_Debug\CrashDump.cpp">
+      <Filter>09_Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="08_Debug\Lock.cpp">
+      <Filter>09_Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="01_NetworkUtils\NetAddress.cpp">
+      <Filter>02_NetworkUtils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>01_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="00_Main\Container.h">
+      <Filter>01_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="00_Main\LibErrCode.h">
+      <Filter>01_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="00_Main\LibGlobal.h">
+      <Filter>01_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="00_Main\LibPch.h">
+      <Filter>01_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="00_Main\Macro.h">
+      <Filter>01_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="00_Main\Types.h">
+      <Filter>01_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="00_Main\Values.h">
+      <Filter>01_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="01_NetworkUtils\SocketUtils.h">
+      <Filter>02_NetworkUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="02_LanNetwork\LanService.h">
+      <Filter>03_LanNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="02_LanNetwork\LanSession.h">
+      <Filter>03_LanNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="02_LanNetwork\LanClient.h">
+      <Filter>03_LanNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="02_LanNetwork\LanClientSession.h">
+      <Filter>03_LanNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="02_LanNetwork\LanObserver.h">
+      <Filter>03_LanNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="02_LanNetwork\LanRecvPacket.h">
+      <Filter>03_LanNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="02_LanNetwork\LanSendPacket.h">
+      <Filter>03_LanNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="02_LanNetwork\LanSerializeBuffer.h">
+      <Filter>03_LanNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="03_NetNetwork\NetRecvPacket.h">
+      <Filter>04_NetNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="03_NetNetwork\NetSendPacket.h">
+      <Filter>04_NetNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="03_NetNetwork\NetSerializeBuffer.h">
+      <Filter>04_NetNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="03_NetNetwork\NetService.h">
+      <Filter>04_NetNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="03_NetNetwork\NetSession.h">
+      <Filter>04_NetNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="03_NetNetwork\NetClient.h">
+      <Filter>04_NetNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="03_NetNetwork\NetClientSession.h">
+      <Filter>04_NetNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="03_NetNetwork\NetObserver.h">
+      <Filter>04_NetNetwork</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Thread\LogicInstance.h">
+      <Filter>05_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Thread\LoopInstance.h">
+      <Filter>05_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Thread\SessionInstance.h">
+      <Filter>05_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Thread\SoloInstance.h">
+      <Filter>05_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Thread\ThreadManager.h">
+      <Filter>05_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Thread\FrameTimer.h">
+      <Filter>05_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Thread\GroupInstance.h">
+      <Filter>05_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Thread\IocpCore.h">
+      <Filter>05_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Thread\Job.h">
+      <Filter>05_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Thread\Kicker.h">
+      <Filter>05_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="05_Memory\LockFreeObjectPoolTLS.h">
+      <Filter>06_Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="05_Memory\LockFreeObjectPoolTLSList.h">
+      <Filter>06_Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="05_Memory\SmartPointer.h">
+      <Filter>06_Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="05_Memory\LockFreeObjectPool.h">
+      <Filter>06_Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="06_DataStructure\LockFreeQueueStatic.h">
+      <Filter>07_DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="06_DataStructure\LockFreeStack.h">
+      <Filter>07_DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="06_DataStructure\LockFreeQueue.h">
+      <Filter>07_DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="07_Utils\PerformanceMonitor.h">
+      <Filter>08_Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="07_Utils\Profiler.h">
+      <Filter>08_Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="07_Utils\TextParser.h">
+      <Filter>08_Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="07_Utils\AtomicUtils.h">
+      <Filter>08_Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="07_Utils\CpuUsage.h">
+      <Filter>08_Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="08_Debug\LogUtils.h">
+      <Filter>09_Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="08_Debug\CrashDump.h">
+      <Filter>09_Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="08_Debug\Lock.h">
+      <Filter>09_Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="01_NetworkUtils\NetAddress.h">
+      <Filter>02_NetworkUtils</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

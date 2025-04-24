@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{b252c3d5-da5f-434f-92b7-4f7b54e616b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_LoginServer">
+      <UniqueIdentifier>{ef9bdea7-7154-4eb2-bf64-a4d3869a9162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00_Main">
+      <UniqueIdentifier>{7b109cd1-3b63-4e2a-9fba-7f55202e0b9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_Redis">
+      <UniqueIdentifier>{66d258e0-7440-4a86-9f94-b405f5dfcb05}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LoginServer.cpp">
+      <Filter>01_LoginServer</Filter>
+    </ClCompile>
+    <ClCompile Include="SqlUtils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="MonitorClient.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="AuthServer.cpp">
+      <Filter>01_LoginServer</Filter>
+    </ClCompile>
+    <ClCompile Include="RedisClient.cpp">
+      <Filter>02_Redis</Filter>
+    </ClCompile>
+    <ClCompile Include="RedisUtils.cpp">
+      <Filter>02_Redis</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>00_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>00_Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LoginServer.h">
+      <Filter>01_LoginServer</Filter>
+    </ClInclude>
+    <ClInclude Include="SqlUtils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="MonitorClient.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="AuthServer.h">
+      <Filter>01_LoginServer</Filter>
+    </ClInclude>
+    <ClInclude Include="RedisClient.h">
+      <Filter>02_Redis</Filter>
+    </ClInclude>
+    <ClInclude Include="RedisValue.h">
+      <Filter>02_Redis</Filter>
+    </ClInclude>
+    <ClInclude Include="RedisUtils.h">
+      <Filter>02_Redis</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Values.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginProtocol.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginConfig.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

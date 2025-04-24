@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00_Main">
+      <UniqueIdentifier>{c9affd88-93f9-4885-a9df-03f91ae35ee4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Server">
+      <UniqueIdentifier>{ba3980f3-a6c3-4119-a4a9-6791b3888b10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_Client">
+      <UniqueIdentifier>{94730e21-27e4-475f-a5ca-b9a55d9aa7d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Utils">
+      <UniqueIdentifier>{9e6dde6a-dcee-4cb8-a2fa-9f5000e493fb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>00_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="00_Main\Player.cpp">
+      <Filter>00_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="00_Main\main.cpp">
+      <Filter>00_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="01_ChatServer\AuthSolo.cpp">
+      <Filter>01_Server</Filter>
+    </ClCompile>
+    <ClCompile Include="01_ChatServer\ChatServer.cpp">
+      <Filter>01_Server</Filter>
+    </ClCompile>
+    <ClCompile Include="01_ChatServer\ChatSolo.cpp">
+      <Filter>01_Server</Filter>
+    </ClCompile>
+    <ClCompile Include="02_MonitorClient\MonitorClient.cpp">
+      <Filter>02_Client</Filter>
+    </ClCompile>
+    <ClCompile Include="03_Utils\RedisUtils.cpp">
+      <Filter>03_Utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="00_Main\Player.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="00_Main\ChatProtocol.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="00_Main\ChatValues.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="01_ChatServer\AuthSolo.h">
+      <Filter>01_Server</Filter>
+    </ClInclude>
+    <ClInclude Include="01_ChatServer\ChatServer.h">
+      <Filter>01_Server</Filter>
+    </ClInclude>
+    <ClInclude Include="01_ChatServer\ChatSolo.h">
+      <Filter>01_Server</Filter>
+    </ClInclude>
+    <ClInclude Include="02_MonitorClient\MonitorClient.h">
+      <Filter>02_Client</Filter>
+    </ClInclude>
+    <ClInclude Include="03_Utils\RedisUtils.h">
+      <Filter>03_Utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1059 @@
+﻿  pch.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\Profiler.h(17,38): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  (소스 파일 'pch.cpp'을(를) 컴파일하는 중)
+  
+  AtomicUtils.cpp
+  Container.cpp
+  CpuUsage.cpp
+  CrashDump.cpp
+  LoopInstance.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LoopInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LoopInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LoopInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LoopInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LoopInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LoopInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LoopInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LoopInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LoopInstance.cpp'을(를) 컴파일하는 중)
+  
+  LogicInstance.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LogicInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LogicInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LogicInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LogicInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LogicInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LogicInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LogicInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LogicInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LogicInstance.cpp'을(를) 컴파일하는 중)
+  
+  FrameTimer.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/FrameTimer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/FrameTimer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/FrameTimer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/FrameTimer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/FrameTimer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/FrameTimer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/FrameTimer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/FrameTimer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/FrameTimer.cpp'을(를) 컴파일하는 중)
+  
+  SessionInstance.cpp
+  IocpCore.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/IocpCore.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/IocpCore.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/IocpCore.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/IocpCore.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/IocpCore.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/IocpCore.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/IocpCore.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/IocpCore.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/IocpCore.cpp'을(를) 컴파일하는 중)
+  
+  Job.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Job.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Job.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Job.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Job.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Job.cpp'을(를) 컴파일하는 중)
+  
+  Kicker.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Kicker.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Kicker.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Kicker.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Kicker.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Kicker.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Kicker.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Kicker.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Kicker.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Kicker.cpp'을(를) 컴파일하는 중)
+  
+  LanClient.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClient.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClient.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClient.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClient.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClient.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClient.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClient.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClient.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClient.cpp'을(를) 컴파일하는 중)
+  
+  LanClientSession.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClientSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClientSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClientSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClientSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClientSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClientSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClientSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClientSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanClientSession.cpp'을(를) 컴파일하는 중)
+  
+  LanRecvPacket.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanRecvPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanRecvPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanRecvPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanRecvPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanRecvPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanRecvPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanRecvPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanRecvPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanRecvPacket.cpp'을(를) 컴파일하는 중)
+  
+  LanSendPacket.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSendPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSendPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSendPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSendPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSendPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSendPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSendPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSendPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSendPacket.cpp'을(를) 컴파일하는 중)
+  
+  LanSerializeBuffer.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSerializeBuffer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSerializeBuffer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSerializeBuffer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSerializeBuffer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSerializeBuffer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSerializeBuffer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSerializeBuffer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSerializeBuffer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSerializeBuffer.cpp'을(를) 컴파일하는 중)
+  
+  LanService.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanService.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanService.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanService.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanService.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanService.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanService.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanService.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanService.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanService.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LanService.cpp(34,18): warning C4316: 'LockFreeObjectPool<LanSession,false>': 힙에 할당된 개체가 64에 맞추어져 있지 않을 수도 있습니다
+  (소스 파일 '/LanService.cpp'을(를) 컴파일하는 중)
+  
+  LanSession.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LanSession.cpp'을(를) 컴파일하는 중)
+  
+  LibErrCode.cpp
+  LibGlobal.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  LibPch.cpp
+  Lock.cpp
+  LockFreeObjectPool.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeObjectPool.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeObjectPool.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeObjectPool.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeObjectPool.cpp'을(를) 컴파일하는 중)
+  
+  LockFreeObjectPoolTLS.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeObjectPoolTLS.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeObjectPoolTLS.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeObjectPoolTLS.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeObjectPoolTLS.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeObjectPoolTLS.cpp'을(를) 컴파일하는 중)
+  
+  LockFreeQueue.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueue.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueue.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueue.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueue.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueue.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueue.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueue.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueue.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueue.cpp'을(를) 컴파일하는 중)
+  
+  LockFreeQueueStatic.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueueStatic.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueueStatic.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueueStatic.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueueStatic.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeQueueStatic.cpp'을(를) 컴파일하는 중)
+  
+  LockFreeStack.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeStack.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeStack.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeStack.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/LockFreeStack.cpp'을(를) 컴파일하는 중)
+  
+  LogDebugger.cpp
+  LogUtils.cpp
+  NetAddress.cpp
+  SoloInstance.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/SoloInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/SoloInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/SoloInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/SoloInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/SoloInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/SoloInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/SoloInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/SoloInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/SoloInstance.cpp'을(를) 컴파일하는 중)
+  
+  GroupInstance.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/GroupInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/GroupInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/GroupInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/GroupInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/GroupInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/GroupInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/GroupInstance.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/GroupInstance.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/GroupInstance.cpp'을(를) 컴파일하는 중)
+  
+  NetObserver.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetObserver.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetObserver.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetObserver.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetObserver.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetObserver.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetObserver.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetObserver.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetObserver.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetObserver.cpp'을(를) 컴파일하는 중)
+  
+  NetRecvPacket.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetRecvPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetRecvPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetRecvPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetRecvPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetRecvPacket.cpp'을(를) 컴파일하는 중)
+  
+  NetSendPacket.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSendPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSendPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSendPacket.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSendPacket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSendPacket.cpp'을(를) 컴파일하는 중)
+  
+  NetSerializeBuffer.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSerializeBuffer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSerializeBuffer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSerializeBuffer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSerializeBuffer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSerializeBuffer.cpp'을(를) 컴파일하는 중)
+  
+  NetService.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetService.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetService.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetService.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetService.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetService.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetService.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetService.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetService.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetService.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\NetService.cpp(45,18): warning C4316: 'LockFreeObjectPool<NetSession,false>': 힙에 할당된 개체가 64에 맞추어져 있지 않을 수도 있습니다
+  (소스 파일 '/NetService.cpp'을(를) 컴파일하는 중)
+  
+  NetSession.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSession.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSession.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/NetSession.cpp'을(를) 컴파일하는 중)
+  
+  Observer.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Observer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(31,2):
+      이 진단은 컴파일러 생성 함수 'LockFreeObjectPool<DATA,tReplacementNew>::LockFreeObjectPool(int,Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(40,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(14,7):
+          클래스 템플릿 'LockFreeObjectPool'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(59,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Observer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(95,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Observer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(67,8):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPool<DATA,tReplacementNew>::Alloc(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPool.h(107,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Observer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Observer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(393,23):
+      이 진단은 컴파일러 생성 함수 'DATA *LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkNodeAlloc(Args ...)'에서 수행되었습니다.
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(399,4):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(357,7):
+          클래스 템플릿 'LockFreeObjectPoolTLS'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(411,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Observer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(430,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Observer.cpp'을(를) 컴파일하는 중)
+      C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(424,22):
+      이 진단은 컴파일러 생성 함수 'void LockFreeObjectPoolTLS<DATA,Replacement>::Chunk::ChunkInit(Args ...)'에서 수행되었습니다.
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(514,4): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Observer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\GameLibrary\GameLibrary\LockFreeObjectPoolTLS.h(522,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Observer.cpp'을(를) 컴파일하는 중)
+  
+  PerformanceMonitor.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Profiler.cpp
+C:\Users\user\Desktop\GameLibrary\GameLibrary\Profiler.cpp(192,38): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  (소스 파일 '/Profiler.cpp'을(를) 컴파일하는 중)
+  
+  SmartPointer.cpp
+  SocketUtils.cpp
+  TextParser.cpp
+  ThreadManager.cpp
+  코드를 생성하고 있습니다...
+  GameLibrary.vcxproj -> C:\Users\user\Desktop\GameLibrary\x64\Debug\GameLibrary.lib

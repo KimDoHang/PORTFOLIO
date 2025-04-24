@@ -1,0 +1,10 @@
+//Markinos MIDL File
+
+#Solo = "MonitorSolo"
+{
+	CLIENT : Monitor_Login(uint16 server_no, uint8 hardware_flag) ~ 20001
+	SERVER : MONITOR_LOGIN_RES(uint8 status)
+	CLIENT : MONITOR_DATA_UPDATE(uint8 data_type, int32 data_val, int32 time_stamp)
+	CLIENT : MONITOR_SECTOR_INFO(uint8 server_no, int32 time_stamp, uint16 sector_infos[][MAX_SECTOR_SIZE_X])
+}
+

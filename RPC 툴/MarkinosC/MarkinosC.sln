@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MarkinosC", "MarkinosC\MarkinosC.pyproj", "{D9172AC9-6E9C-4D4E-885A-51463C0BF54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9172AC9-6E9C-4D4E-885A-51463C0BF54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9172AC9-6E9C-4D4E-885A-51463C0BF54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE1D269A-08E3-4F80-892B-BEEE4B107551}
+	EndGlobalSection
+EndGlobal

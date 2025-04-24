@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\SingleChat_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\SingleChat_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\RedisUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\ChatGroup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\ChatGroup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatValues.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\ChatValues.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ObjectPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\ObjectPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ObjectPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\ObjectPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\SingleChat_Packet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\SingleChat_Packet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\SingleChat_Server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\SingleChat_Server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\MonitorClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\MonitorClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\MonitorClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\MonitorClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroupJob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\ChatGroupJob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroupJob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\ChatGroupJob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisToken.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\RedisToken.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\RedisUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisToken.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\RedisToken.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\Markinos\\MIDL.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Markinos\\MIDL.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\Markinos\\MonitorDistribution.MIDL||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Markinos\\MonitorDistribution.MIDL||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\Markinos\\SingleChat.MIDL||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:Markinos\\SingleChat.MIDL||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04F97DC4-3BC3-456B-9229-ACA391917A04}|RPC_ChatServer\\RPC_ChatServer.vcxproj|solutionrelative:RPC_ChatServer\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MonitorClient.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\MonitorClient.h",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\MonitorClient.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\MonitorClient.h",
+              "RelativeToolTip": "RPC_ChatServer\\MonitorClient.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T12:34:04.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatGroup.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroup.h",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\ChatGroup.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroup.h",
+              "RelativeToolTip": "RPC_ChatServer\\ChatGroup.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T14:26:46.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatGroup.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroup.cpp",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\ChatGroup.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroup.cpp",
+              "RelativeToolTip": "RPC_ChatServer\\ChatGroup.cpp",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAMEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T14:25:02.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingleChat_Server.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\SingleChat_Server.cpp",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\SingleChat_Server.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\SingleChat_Server.cpp",
+              "RelativeToolTip": "RPC_ChatServer\\SingleChat_Server.cpp",
+              "ViewState": "AgIAADsBAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T14:24:38.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObjectPool.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ObjectPool.cpp",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\ObjectPool.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ObjectPool.cpp",
+              "RelativeToolTip": "RPC_ChatServer\\ObjectPool.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T15:37:24.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SingleChat_Server.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\SingleChat_Server.h",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\SingleChat_Server.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\SingleChat_Server.h",
+              "RelativeToolTip": "RPC_ChatServer\\SingleChat_Server.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T14:24:37.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\main.cpp",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\main.cpp",
+              "RelativeToolTip": "RPC_ChatServer\\main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T07:26:12.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SingleChat_Packet.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\SingleChat_Packet.h",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\SingleChat_Packet.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\SingleChat_Packet.h",
+              "RelativeToolTip": "RPC_ChatServer\\SingleChat_Packet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T14:24:39.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObjectPool.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ObjectPool.h",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\ObjectPool.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ObjectPool.h",
+              "RelativeToolTip": "RPC_ChatServer\\ObjectPool.h",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T14:27:14.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatValues.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatValues.h",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\ChatValues.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatValues.h",
+              "RelativeToolTip": "RPC_ChatServer\\ChatValues.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T14:21:33.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedisUtils.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisUtils.h",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\RedisUtils.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisUtils.h",
+              "RelativeToolTip": "RPC_ChatServer\\RedisUtils.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T14:28:56.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\pch.h",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\pch.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\pch.h",
+              "RelativeToolTip": "RPC_ChatServer\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T07:27:09.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MonitorClient.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\MonitorClient.cpp",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\MonitorClient.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\MonitorClient.cpp",
+              "RelativeToolTip": "RPC_ChatServer\\MonitorClient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T12:34:15.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChatGroupJob.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroupJob.cpp",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\ChatGroupJob.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroupJob.cpp",
+              "RelativeToolTip": "RPC_ChatServer\\ChatGroupJob.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T14:25:15.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatGroupJob.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroupJob.h",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\ChatGroupJob.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\ChatGroupJob.h",
+              "RelativeToolTip": "RPC_ChatServer\\ChatGroupJob.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T14:21:20.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RedisToken.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisToken.h",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\RedisToken.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisToken.h",
+              "RelativeToolTip": "RPC_ChatServer\\RedisToken.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T14:25:46.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RedisUtils.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisUtils.cpp",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\RedisUtils.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisUtils.cpp",
+              "RelativeToolTip": "RPC_ChatServer\\RedisUtils.cpp",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T17:17:11.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\Player.h",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\Player.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\Player.h",
+              "RelativeToolTip": "RPC_ChatServer\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T14:25:32.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RedisToken.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisToken.cpp",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\RedisToken.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\RedisToken.cpp",
+              "RelativeToolTip": "RPC_ChatServer\\RedisToken.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T14:25:53.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\Player.cpp",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\Player.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\Player.cpp",
+              "RelativeToolTip": "RPC_ChatServer\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T17:17:39.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MonitorDistribution.MIDL",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\Markinos\\MonitorDistribution.MIDL",
+              "RelativeDocumentMoniker": "Markinos\\MonitorDistribution.MIDL",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\Markinos\\MonitorDistribution.MIDL",
+              "RelativeToolTip": "Markinos\\MonitorDistribution.MIDL",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T14:35:37.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MIDL.bat",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\Markinos\\MIDL.bat",
+              "RelativeDocumentMoniker": "Markinos\\MIDL.bat",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\Markinos\\MIDL.bat",
+              "RelativeToolTip": "Markinos\\MIDL.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFjSURBVDhPY6AI/P//n7G1s\u002Bc/lEsWYILSRANbaysUmgHkgl\u002B/fpGFQXqxuuDkyZMMEydOBNOEAIYBixYvZhARl2QIiohi4BeTYJg\u002BcxZUBjtAMeDSpUsM1rb2DEoKcgwnDx9kUFOQZ7BxcQeL4wIoBuzfv5\u002BBjZOTYe2aNQyRkZEM69auYWBjY2VYv3UHw4otuxl2HzzK8OPHD6hqCEAxwNHRkeHrt28MQcEhDMuXL2cIANLP33xgUPdNYdB3dGN4JajGcPrSVahqCEAxQE9Pj\u002BHE4UMMV\u002B89ZNC1tGW4dOcBw7kzZxn0lYQZLj/5zGCoLMrw9NU7qGoIwAjEhLhYhm9vXjDsWLOC4fe7lwxm\u002BloMl\u002B69ZdCV4WW4cO8Ng4meNlQlBLBAaRRgbm4OxiAA8vOPU2cZLj34xqCnpswgIyYFFocBDBegAw4ODgYXO2uGcB9XBh01JTAfGVCcFwYaMDAAABi9qE6NKlarAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-14T13:50:07.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SingleChat.MIDL",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\Markinos\\SingleChat.MIDL",
+              "RelativeDocumentMoniker": "Markinos\\SingleChat.MIDL",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\Markinos\\SingleChat.MIDL",
+              "RelativeToolTip": "Markinos\\SingleChat.MIDL",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T08:41:03.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\pch.cpp",
+              "RelativeDocumentMoniker": "RPC_ChatServer\\pch.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PortFolio\\RPC \uD234\\RPC_ChatServer\\RPC_ChatServer\\pch.cpp",
+              "RelativeToolTip": "RPC_ChatServer\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T12:17:59.225Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

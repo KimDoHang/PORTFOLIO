@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00_Main">
+      <UniqueIdentifier>{01aa67b2-3947-4d09-87ee-a489a7e87746}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Server">
+      <UniqueIdentifier>{058647bc-00d4-4fe6-9dc4-666a4a572a7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_Client">
+      <UniqueIdentifier>{1a576a17-75db-4a2e-b213-a11d106773a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Utils">
+      <UniqueIdentifier>{be60e30c-159d-4133-8ede-b98b7f21d6bf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>00_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>00_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="ChatGroupJob.cpp">
+      <Filter>00_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="ChatGroup.cpp">
+      <Filter>01_Server</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectPool.cpp">
+      <Filter>03_Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="RedisToken.cpp">
+      <Filter>03_Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="RedisUtils.cpp">
+      <Filter>03_Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleChat_Server.cpp">
+      <Filter>01_Server</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>00_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="MonitorClient.cpp">
+      <Filter>02_Client</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="ChatGroupJob.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="ChatGroup.h">
+      <Filter>01_Server</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectPool.h">
+      <Filter>03_Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ChatValues.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="RedisToken.h">
+      <Filter>03_Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="RedisUtils.h">
+      <Filter>03_Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleChat_Server.h">
+      <Filter>01_Server</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleChat_Packet.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="MonitorClient.h">
+      <Filter>02_Client</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Markinos\SingleChat.MIDL">
+      <Filter>03_Utils</Filter>
+    </None>
+  </ItemGroup>
+</Project>

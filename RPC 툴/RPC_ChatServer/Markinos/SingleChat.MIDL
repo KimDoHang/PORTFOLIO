@@ -1,0 +1,17 @@
+//Markinos MIDL File
+
+
+#Group = "ChatGroup"
+{
+	CLIENT : ChatReq_Login(int64 account_num, WCHAR id[20], WCHAR nick_name[20], char session_key[64]) ~ 1
+	SERVER : ChatRes_Login(uint8 status, int64 account_num)
+
+	CLIENT : ChatReq_SectorMove(int64 account_num, uint16 sector_x, uint16 sector_y)
+	SERVER : ChatRes_SectorMove(int64 account_num, uint16 sector_x, uint16 sector_y)
+
+	CLIENT : ChatReq_Message(int64 account_num, uint16 message_len, WCHAR message[message_len / 2])
+	SERVER : ChatRes_Message(int64 account_num, WCHAR id[20], WCHAR nick_name[20], uint16 message_len, WCHAR message[message_len / 2])
+
+	CLIENT : ChatReq_HeartBeat()
+}
+
