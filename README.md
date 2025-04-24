@@ -3,6 +3,6 @@
 
 📂 주요 폴더 설명
 👉 서버
-- 'Login Server'
+- `Login Server`
 👉 게임 라이브러리
 
