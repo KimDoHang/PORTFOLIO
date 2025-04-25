@@ -16,5 +16,6 @@
  👉  Redis 및 SQL 유틸 함수들
 
 ## ⚙️ Config 설정
-👉 `LoginConfig.h` : Max Thread, Concurrent Thread 및 Session, Player 수 설정 
+- `LoginServer.cnf` : Login 서버 관련 스레드 및 유저수 등 설정 파일
+- `DBServer.cnf` : DB로 접근하여 인증 코드 검사 (클라이언트가 외부 Platform로 부터 왔다고 가정)
 
