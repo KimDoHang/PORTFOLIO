@@ -14,4 +14,4 @@
  👉  Redis 및 SQL 유틸 함수들
 
 ## ⚙️ Config 설정
-👉 `MultiChatServer.cnf` : 멀티채팅서버 관련 수치 항목 설정 파일
+- `MultiChatServer.cnf` : 멀티채팅서버 관련 수치 항목 설정 파일
