@@ -5,5 +5,8 @@
  - `MonitorClass` : NetClient를 상속받아 구현
 
 ## ⚙️ Config 설정
-👉 `MonitorDistributionClient.cnf` : 중앙 모니터링 서버 IP, Port 설정 및 클라이언트 스레드수, 각 섹터별 혼잡도 숫자 설정 가능
+📄 `MonitorDistributionClient.cnf` : 모니터링 분포 클라 cnf 설정
+- `IP, PORT` : 중앙 모니터링 서버 기준으로 설정
+- `ServerNo` : 관측하고 싶은 ServerNo 설정 (ChatServer의 경우 2)
+- `Congetstion Level` : 섹터당 혼잡도 별 클라이언트 수 설정
 
