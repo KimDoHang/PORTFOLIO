@@ -7,7 +7,7 @@
 - `LanServer` : 암호화가 없는 서버
 - `LanSendPacket, LanRecvPacket, LanSerializeBuffer` : 직렬화 버퍼 관련 파일들
 
-  ### 📄 LanNetwork 
+### 📄 LanNetwork 
  👉 LAN 내부 통신시 사용하는 클라 및 서버
 - `LanClient` : 암호화가 없는 클라이언트
 - `LanServer` : 암호화가 없는 서버
