@@ -1,7 +1,11 @@
-로그인 채팅 서버 클라이언트
-👉 로그인, 채팅 서버의 더미 역할을 하는 클라이언트 파일
-📂 파일 설명
-ID : 더미 클라이언트 시작시 ID 파일 설정시 클라이언트들 설정 정보들
-ChatList : 채팅 정보
-⚙️ Config 설정
-👉 ChatDummy_Config.ini 설정 파일
+<h1 style="display:inline">게임 라이브러리</h1>👉 Lan, Net Client 및 Lan, Net Server 기능들 포함
+
+## 📂 파일 설명
+### 👉 `LanNetwork`
+- `LanClient` : 암호화가 없는 클라이언트
+- `LanServer` : 암호화가 없는 서버
+- `LanSendPacket, LanRecvPacket, LanSerializeBuffer` : 직렬화 버퍼 관련 파일들
+
+## ⚙️ Config 설정
+👉 `ChatDummy_Config.ini` 설정 파일
+
