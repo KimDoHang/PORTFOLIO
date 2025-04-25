@@ -1,4 +1,4 @@
-<h1 style="display:inline">게임 라이브러리</h1>👉 Lan, Net Client 및 Lan, Net Server 기능들 포함
+<h1 style="display:inline">게임 라이브러리</h1>🔸 Lan, Net Client 및 Lan, Net Server 기능들 포함
 
 ## 📂 파일 설명
 ### 👉 `LanNetwork`
